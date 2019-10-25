@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cory Hogan</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="#"><img src="images/2019_CORY_logo-01.png" style= "max-width:200px" alt="logo icon"></a>
+            <a href="#"><img src="images/nav_icon.png" atl="nav icon"></a>
+        </nav>
+        <h2>HEY, MY NAME'S</h2>
+        <h1>CORY HOGAN</h1>
+        <h2>AND I DESIGN THINGS IN VIRGINIA BEACH, VIRGINIA</h2>
+        <nav>
+            <a href="#"><img src="images/cory_photo.png" style= "max-width:400px" alt="logo icon"></a>
+            </a>
+        </nav>
+
+    </header>
+</body>
+    
+</html>
